@@ -1,0 +1,10 @@
+{
+  "appId": "com.studymaster.app",
+  "appName": "StudyMaster",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
